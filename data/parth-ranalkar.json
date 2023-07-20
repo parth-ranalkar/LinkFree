@@ -1,6 +1,6 @@
 {
   "name": "Parth Ranalkar",
-  "bio": "**Open Source** 💻 | Web Developer 👨‍💻 ",
+  "bio": "**Open Source** 🌐 | Web Developer 👨‍💻 ",
   "tags": ["Open Source", "Javascript" , "TypeScript" , "Node.js"],
   "socials": [
     {
@@ -52,7 +52,7 @@
       "icon": "SiInstagram"
     }
   ],
-  "milestones":[
+  "milestones": [
     {
       "title": "Started Blogging",
       "date": "July 2023",
